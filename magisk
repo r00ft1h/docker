@@ -1,10 +1,10 @@
 # The version name and version code of Magisk
-version=04995881
-versionCode=21002
+version=872c5520
+versionCode=21004
 
 # The version name and version code of Magisk Manager
-appVersion=d4d837a5
-appVersionCode=308
+appVersion=339ca6d6
+appVersionCode=310
 
 outdir=out
 prettyName=false
